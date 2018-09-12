@@ -1,0 +1,59 @@
+body{
+    font-family: "Hiragino Kaku Gothic Pron","メイリオ",sans-serif;
+}
+
+h3{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: 4px red solid;
+    background-color: #f2f2f2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width:500px;
+    font-size: 20px;
+}
+
+.confirm{
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border:solid #f2f2f2 3px;
+    border-radius: 10px;
+    width:450px;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+}
+
+form{
+    float: left;
+    margin-right: 15px;
+}
+
+.button1{
+    margin-top: 20px;
+    border-radius : 5%;          /* 角丸       */
+    font-size     : 10pt;        /* 文字サイズ */
+    text-align    : center;      /* 文字位置   */
+    padding       : 6px 8px;   /* 余白       */
+    background    : #cccccc;     /* 背景色     */
+    color         : #ffffff;     /* 文字色     */
+    line-height   : 1em;         /* 1行の高さ  */
+    box-shadow    : 1px 1px 3px #666666;  /* 影の設定 */
+    border        : 2px solid #cccccc;    /* 枠の指定 */    
+}
+
+.button2{
+    margin-top: 20px;
+    border-radius : 5%;          /* 角丸       */
+    font-size     : 10pt;        /* 文字サイズ */
+    text-align    : center;      /* 文字位置   */
+    padding       : 6px 8px;   /* 余白       */
+    background    : #FF9933;     /* 背景色     */
+    color         : #ffffff;     /* 文字色     */
+    line-height   : 1em;         /* 1行の高さ  */
+    box-shadow    : 1px 1px 3px #666666;  /* 影の設定 */
+    border        : 2px solid #FF9933;    /* 枠の指定 */
+}
