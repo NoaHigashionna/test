@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="jp.co.internous.action.HumanName"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.HumanAge"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.HumanAdress"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExtPackage.AddressHelper"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.Person"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.Person1"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.Robot"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.Mp3Player"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.SmartPhoneOVR"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.Mp3PlayerIF"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.SmartPhoneIF"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.NewFunctionIF"/>
+<fullyQualifiedTypeName name="jp.co.internous.action.SmartPhone"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+<fullyQualifiedTypeName name="java.lang.InstantiationException"/>
+<fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+<fullyQualifiedTypeName name="TestUserDAO"/>
+<fullyQualifiedTypeName name="DBConnector"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.sql.DriverAction"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="com.internousdev.login.util.DBConnecter"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.internousdev.login.dao.LoginDAO"/>
+<fullyQualifiedTypeName name="com.internousdev.login.dto.LoginDTO"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj2.util.DBConnector"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj2.dao.HelloStrutsDAO"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+</qualifiedTypeNameHistroy>

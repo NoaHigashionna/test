@@ -1,0 +1,37 @@
+package jp.co.internous.action;
+
+public class  Test{
+
+	public static void main(String[] args) {
+		Person kimura = new Person();
+		Person suzuki = new Person();
+		Person higashi = new Person();
+
+		kimura.name ="木村次郎";
+		kimura.age=18;
+		kimura.phoneNumber ="070-0000-0000";
+		kimura.address ="abc@co,jp";
+		kimura.seibetsu = "男";
+		kimura.seinengappi = "1999/12/18";
+
+		suzuki.name ="鈴木花子";
+		suzuki.age=16;
+		suzuki.phoneNumber = "080-0000-0000";
+		suzuki.address = "def@go.com";
+		suzuki.seibetsu = "女";
+		suzuki.seinengappi = "2002/8/15";
+
+		higashi.name ="東恩納ノア";
+		higashi.age=23;
+		higashi.phoneNumber = "090-0000-0000";
+		higashi.address = "123@ya.jp";
+		higashi.seibetsu = "女;
+		higashi.seinengappi = "1994/10/13";
+
+		System.out.println(kimura.name + "、"+ kimura.age+ "、"+kimura.phoneNumber+ "、"+kimura.address+ "、"+kimura.seibetsu+ "、"+kimura.seinengappi);
+		System.out.println(suzuki.name + "、"+ suzuki.age+ "、"+suzuki.phoneNumber+ "、"+suzuki.address+ "、"+suzuki.seibetsu+ "、"+suzuki.seinengappi);
+		System.out.println(higashi.name + "、"+ higashi.age+ "、"+higashi.phoneNumber+ "、"+higashi.address+ "、"+higashi.seibetsu+ "、"+higashi.seinengappi);
+
+	}
+
+}
