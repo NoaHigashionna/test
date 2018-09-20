@@ -1,0 +1,13 @@
+package com.internousdev.webproj5.action;
+
+public class Snippet {
+	<action name="InquiryAction" class="com.internousdev.webproj4.action.InquiryAction" method="execute">
+	<result name="success">inquiry.jsp</result>
+	</action>
+	
+	<action name="InquiryCompleteAction" class="com.internousdev.webproj4.action.InquiryCompleteAction" method="execute">
+	<result name="success">inquiryComplete.jsp</result>
+	</action>
+	
+}
+

@@ -1,5 +1,11 @@
 package com.internousdev.webproj3.dto;
 
+/**
+ * 未使用のクラス
+ * @author internousdev
+ *
+ */
+
 public class InquiryDTO {
 
 	private String name;
