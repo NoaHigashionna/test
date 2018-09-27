@@ -1,0 +1,8 @@
+package com.internousdev.mytemplate.action;
+
+public class Snippet {
+	public static void main(String[] args) {
+		user_master_id
+	}
+}
+

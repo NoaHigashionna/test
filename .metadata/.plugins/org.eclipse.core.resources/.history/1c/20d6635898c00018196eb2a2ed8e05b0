@@ -1,0 +1,8 @@
+package com.internousdev.mytemplate.dao;
+
+public class Snippet {
+	public static void main(String[] args) {
+		simpleFormat
+	}
+}
+
