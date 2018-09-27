@@ -22,7 +22,7 @@ public class UserCreateCompleteDAO {
 			ps.setString(3, userName);
 			ps.setString(4, dateUtil.getDate());
 
-			ps.executeQuery();
+			ps.execute();
 		}catch(Exception e){
 			e.printStackTrace();
 		}finally{
