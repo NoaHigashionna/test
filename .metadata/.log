@@ -2384,3 +2384,6 @@ java.lang.NullPointerException
 	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:582)
 	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-09-27 16:28:52.947
+!MESSAGE C:\Users\internousdev\Desktop\workspace\workspace-higashionna\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ecsite\WEB-INF\lib\struts2-core-2.3.35.jar を削除できませんでした。他のプロセスによりロックされている可能性があります。
