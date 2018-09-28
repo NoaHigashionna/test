@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+body{
+	width:100%;
+	height:500px;
+	letter-spacing: 1px;
+}
+
+header{
+	width:100%;
+	height:50px;
+	background-color: black;
+}
+
+#top {
+	width:780px;
+	text-align: center;
+	margin:30px auto;
+	border:1px solid black;
+	font-family: Sylfaen,Verdana, Helvetica, sans-serif;;
+}
