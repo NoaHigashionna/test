@@ -20,20 +20,3 @@ header{
 	font-family:Comic Sans MS,Verdana, Helvetica, sans-serif;;
 }
 
-div {
-	argin:0 auto;
-	display       : inline-block;
-	font-size     : 11pt;        /* 文字サイズ */
-	text-align    : center;      /* 文字位置   */
-	cursor        : pointer;     /* カーソル   */
-	padding       : 7px 40px;   /* 余白       */
-	background    : black;     /* 背景色     */
-	color         : #ffffff;     /* 文字色     */
-	line-height   : 1em;         /* 1行の高さ  */
-	transition    : .3s;         /* なめらか変化 */
-	border        : 0.2px solid #7f7f00;    /* 枠の指定 */
-}
-.button:hover {
-  color         : #7f7f00;     /* 背景色     */
-  background    : #ffffff;     /* 文字色     */
-}
